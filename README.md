@@ -1,5 +1,5 @@
 
-<img width=50% src="https://user-images.githubusercontent.com/56573972/196780446-f029c2a0-0f0f-4855-a5b5-5c05d37f58df.jpg">
+ <!-- <img width=100% src="https://user-images.githubusercontent.com/56573972/196780446-f029c2a0-0f0f-4855-a5b5-5c05d37f58df.jpg"> --!>
 <h1 align="center">Hi 👋, I'm Abheet Kumar</h1>
 
 <h3 align="center">A passionate Software developer from India</h3>
