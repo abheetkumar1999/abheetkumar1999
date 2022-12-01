@@ -16,7 +16,7 @@ src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c040
 
 - 📫 How to reach me **abheetkumar1999@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_iM8gAxPWaZ85GuKyDQ_CkOQHY4w0VBl/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Abheet_Kumar.pdf](https://github.com/abheetkumar1999/abheetkumar1999/files/10132343/Resume_Abheet_Kumar.1.pdf)
 
 - ⚡ Fun fact **I think I am too Sarcastic**
 
